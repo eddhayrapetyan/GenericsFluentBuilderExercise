@@ -29,7 +29,7 @@ public class Human {
         return id;
     }
 
-    public static class HumanBuilder {
+    public static class HumanBuilder{
         private String firstName;
         private String lastName;
         private String address;
